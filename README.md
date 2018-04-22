@@ -1,2 +1,2 @@
 # CTF_Programs
-Holds all the programs I have written for CTFs over the years.
+Holds writeups, sandbox practice, and various software programs I have written for CTFs over the years.
